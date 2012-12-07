@@ -1,6 +1,11 @@
 ##Titanium Number Pad
 A tiny little module that mimics a calculator input.
 
+
+![Numberpad 1](https://github.com/aarondfrancis/titanium-numberpad/blob/master/Resources/documentation-images/numberpad1.png)
+
+![Numberpad 2](https://github.com/aarondfrancis/titanium-numberpad/blob/master/Resources/documentation-images/numberpad2.png)
+
 ###Import the module
 
     var NumberPad = require('views/numpad');
