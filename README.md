@@ -2,9 +2,9 @@
 A tiny little module that mimics a calculator input.
 
 
-![Numberpad 1](https://github.com/aarondfrancis/titanium-numberpad/blob/master/Resources/documentation-images/numberpad1.png)
+![Numberpad 1](https://github.com/aarondfrancis/titanium-numberpad/blob/master/Resources/documentation-images/numberpad1.png?raw=true)
 
-![Numberpad 2](https://github.com/aarondfrancis/titanium-numberpad/blob/master/Resources/documentation-images/numberpad2.png)
+![Numberpad 2](https://github.com/aarondfrancis/titanium-numberpad/blob/master/Resources/documentation-images/numberpad2.png?raw=true)
 
 ###Import the module
 
